@@ -1,1 +1,2 @@
-# sosm_bike
+# PROIECT SOSM
+GORAN TEODORA - SSA
